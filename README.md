@@ -1,9 +1,11 @@
 # Transfer-Learning-Based-Classification-of-Poultry-Diseases-for-Enhanced-Health-Management
 
 🐔 **Poultry Disease Classification using Transfer Learning**
+
 A deep learning-based application that classifies poultry diseases using image data and other environmental factors to support rapid, accurate diagnosis and improve poultry farm health management.
 
 📌 **Project Title**
+
 Transfer Learning-Based Classification of Poultry Diseases for Enhanced Health Management
 
 📊 **Dataset**
@@ -30,7 +32,7 @@ Environmental conditions
 
 Observed symptoms (e.g., lethargy, diarrhea, low egg production)
 
-🛠️ **Technologies Used**
+🛠️ **Technologies Used:**
 
 **Frontend:** HTML, CSS (for web interface if applicable)
 
@@ -42,7 +44,7 @@ Observed symptoms (e.g., lethargy, diarrhea, low egg production)
 
 **Deployment:** Mobile-ready integration (planned)
 
-⚙️ **How It Works**
+⚙️ **How It Works:**
 
 The user uploads poultry images or enters symptom details via an app/web form.
 
@@ -50,7 +52,7 @@ The trained deep learning model processes the input and predicts the disease cla
 
 Based on the prediction, suggested treatments or management practices are displayed to the user.
 
-🧠 **Model Details**
+🧠 **Model Details:**
 
 **Model Type:** Pre-trained Convolutional Neural Network (CNN)
 
@@ -60,7 +62,8 @@ Based on the prediction, suggested treatments or management practices are displa
 
 **Evaluation:** Accuracy, Precision, Recall, Confusion Matrix
 
-📱 **Use Case Scenarios**
+📱 **Use Case Scenarios:**
+
 **1. Rural Community Outbreak**
 Farmers input symptoms/images into the mobile app and receive a diagnosis (e.g., Coccidiosis) with treatment steps.
 
@@ -81,5 +84,6 @@ Integrate SHAP or Grad-CAM for visual model explainability
 Expand dataset to include more diseases and edge cases
 
 📬 **Contact**
+
 Jyothi Pulimi
 St. Ann's College of Engineering and Technology.
