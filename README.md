@@ -16,21 +16,21 @@ Transfer Learning-Based Classification of Poultry Diseases for Enhanced Health M
 
 **Target Classes:**
 
-Salmonella
+•Salmonella
 
-New Castle Disease
+•New Castle Disease
 
-Coccidiosis
+•Coccidiosis
 
-Healthy
+•Healthy
 
 **Features:**
 
-Visual features from poultry images
+•Visual features from poultry images
 
-Environmental conditions
+•Environmental conditions
 
-Observed symptoms (e.g., lethargy, diarrhea, low egg production)
+•Observed symptoms (e.g., lethargy, diarrhea, low egg production)
 
 🛠️ **Technologies Used:**
 
@@ -44,13 +44,15 @@ Observed symptoms (e.g., lethargy, diarrhea, low egg production)
 
 **Deployment:** Mobile-ready integration (planned)
 
+
 ⚙️ **How It Works:**
 
-The user uploads poultry images or enters symptom details via an app/web form.
+•The user uploads poultry images or enters symptom details via an app/web form.
 
-The trained deep learning model processes the input and predicts the disease class.
+•The trained deep learning model processes the input and predicts the disease class.
 
-Based on the prediction, suggested treatments or management practices are displayed to the user.
+•Based on the prediction, suggested treatments or management practices are displayed to the user.
+
 
 🧠 **Model Details:**
 
@@ -61,6 +63,7 @@ Based on the prediction, suggested treatments or management practices are displa
 **Output:** 4-class classification – Salmonella, New Castle Disease, Coccidiosis, Healthy
 
 **Evaluation:** Accuracy, Precision, Recall, Confusion Matrix
+
 
 📱 **Use Case Scenarios:**
 
@@ -73,17 +76,19 @@ Real-time health checks detect early signs of New Castle Disease, enabling immed
 **3. Veterinary Student Training**
 Students use the app for simulated diagnosis and treatment planning, enhancing practical learning.
 
+
 ✅ **Future Enhancements**
 
-Deploy the model as an Android/iOS app
+•Deploy the model as an Android/iOS app
 
-Add multilingual support for rural users
+•Add multilingual support for rural users
 
-Integrate SHAP or Grad-CAM for visual model explainability
+•Integrate SHAP or Grad-CAM for visual model explainability
 
-Expand dataset to include more diseases and edge cases
+•Expand dataset to include more diseases and edge cases
 
 📬 **Contact**
 
-Jyothi Pulimi
+**Jyothi Pulimi**
+
 St. Ann's College of Engineering and Technology.
